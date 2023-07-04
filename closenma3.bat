@@ -1,0 +1,1 @@
+taskkill /f /im jhl_serbmal.exe > nul
